@@ -4,7 +4,7 @@
     "requestChunkSize": 4096,
     "url": "https://bjesus.github.io/teatime-database/books.db"
   },
-  "images": "https://bjesus.github.io/teatime-database/covers/${ipfs_cid}",
+  "images": "https://bjesus.github.io/teatime-database/covers/{{ ipfs_cid }}",
   "tableName": "updated_data",
   "columns": {
     "title": "Title",
